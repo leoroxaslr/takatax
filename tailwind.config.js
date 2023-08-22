@@ -6,13 +6,14 @@ module.exports = {
   },
   colors: {
     white: "#fffff",
-    blue: "#1fb6ff",
+    blue: "#0D4E85",
     purple: "#7e5bef",
     pink: "#ff49db",
-    yellow: "#ffc82c",
+    yellow: "#FFD05E",
     "gray-dark": "#273444",
     gray: "#8492a6",
     "gray-light": "#d3dce6",
+    primary: "#0D4E85",
   },
   plugins: [],
 };
